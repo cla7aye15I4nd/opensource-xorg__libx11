@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "target": "cla7aye15I4nd/opensource-xorg__libx11",
+  "canonical_upstream": "https://gitlab.freedesktop.org/xorg/lib/libx11",
+  "source": {
+    "kind": "git",
+    "upstream_url": "https://gitlab.freedesktop.org/xorg/lib/libx11.git",
+    "branch": "master",
+    "revision": "4c8ed231178d218915f9749f593b3faeac7d27b6"
+  },
+  "publication_review": {
+    "license_files": [
+      "COPYING"
+    ],
+    "notice_files": [
+      "AUTHORS",
+      "src/xlibi18n/lcUniConv/COPYRIGHT"
+    ],
+    "public_fixture_key_markers": []
+  },
+  "upstream_tree_sha256": "d23c9e11f1c18db460021538c1174510fb5d4ba78aa478270be92e3160f1e34d",
+  "tree_sha256": "3566b2d68ba2476d591675fbed0ca46ac8dea469c269060d5eef54b699c981cd"
+}
